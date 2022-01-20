@@ -1,6 +1,7 @@
 Completed coursera course using email
 rakinwho@gmail.com
 https://www.coursera.org/account/accomplishments/certificate/44R2ZX7RG6VD
+https://www.coursera.org/account/accomplishments/certificate/QCNYWMFAC34Y
 
 Completed Datacamp course using email
 rakin.bin.rabbani@g.bracu.ac.bd
